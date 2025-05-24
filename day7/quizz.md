@@ -1,4 +1,4 @@
-# Create a simple quiz web page that:
+# Create a simple quiz web page:
 
 ## What to do:
 Uses HTML to structure the page with a container to display a question and multiple-choice answers as radio buttons, plus a Submit button.
